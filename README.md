@@ -48,6 +48,14 @@
 - git commit --amend
 - git cherry-pick C3
 
+#### **TAG**
+- git tag v0 c1
+- git tag v1 c2
+- git checkout v1
+
+#### **DESCRIBE**
+- git commit
+
 <br></br>
 
 --------------------------
@@ -56,5 +64,6 @@
 
 ## Exos effectués:
 ![Exos effectués](./screen.png)
+![Exos effectués](./screen2.png)
 
 https://learngitbranching.js.org/?locale=fr_FR
